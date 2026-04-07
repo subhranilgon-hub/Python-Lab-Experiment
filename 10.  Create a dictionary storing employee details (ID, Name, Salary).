@@ -1,0 +1,2 @@
+emp={"ID":101,"Name":"Subhronil","Salary":80000}
+print(emp)
