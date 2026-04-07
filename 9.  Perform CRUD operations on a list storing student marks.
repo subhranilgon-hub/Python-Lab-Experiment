@@ -1,0 +1,5 @@
+marks=[80,87,90]
+marks.append(85)
+marks[2]=75
+marks.remove(87)
+print(marks)
